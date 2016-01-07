@@ -1,12 +1,12 @@
 {
-  "name": "esmangle",
+  "name": "esmangle2",
   "description": "ECMAScript code mangler / minifier",
   "homepage": "http://github.com/estools/esmangle.html",
   "main": "lib/esmangle.js",
   "bin": {
     "esmangle": "./bin/esmangle.js"
   },
-  "version": "1.0.2-dev",
+  "version": "1.0.2",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -31,7 +31,7 @@
     "esprima": "^2.0.0",
     "estraverse": "~4.1.1",
     "esutils": "~2.0.2",
-    "esshorten": "~1.1.0",
+    "esshorten2": "~1.1.2",
     "isarray": "0.0.1",
     "optionator": "^0.5.0",
     "source-map": "^0.4.1"
