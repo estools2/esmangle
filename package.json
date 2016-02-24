@@ -6,7 +6,7 @@
   "bin": {
     "esmangle": "./bin/esmangle.js"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "engines": {
     "node": ">=0.10.0"
   },
@@ -26,18 +26,18 @@
   },
   "dependencies": {
     "camel-case": "^1.1.2",
-    "escodegen": "~1.6.1",
-    "escope": "~2.0.6",
-    "esprima": "^2.0.0",
+    "escodegen": "~1.8.0",
+    "escope": "~3.4.0",
+    "esprima": "^2.7.2",
     "estraverse": "~4.1.1",
     "esutils": "~2.0.2",
     "esshorten2": "~1.1.2",
     "isarray": "0.0.1",
     "optionator": "^0.5.0",
-    "source-map": "^0.4.1"
+    "source-map": "^0.5.3"
   },
   "devDependencies": {
-    "async": "~0.9.0",
+    "async": "~1.5.2",
     "chai": "*",
     "clone": "^1.0.0",
     "commonjs-everywhere": "~0.9.7",
